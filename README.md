@@ -1,4 +1,4 @@
-# Seasons [<img src="https://img.shields.io/static/v1?label=Click%20Me&message=Live&color=yellow" width="130"/>](https://d-march.github.io/seasons/)
+# Seasons [<img src="https://img.shields.io/static/v1?label=Demo&message=Live&color=yellow" width="130"/>](https://d-march.github.io/seasons/)
 
 A web app which requires the user to allow their location to be shared with the app.
 
